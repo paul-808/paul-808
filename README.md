@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paul-808
-- 👀 I’m interested in django fullstack, and beer
+- 👀 I’m interested in public-sector funding problems, education policy, goverment reform for better policy and data, and beer
 - 🌱 I’m currently learning django fullstack :D
 - 💞️ I’m looking to collaborate on a beer recipe portal
 - 📫 Connect on insta @pljrvy
