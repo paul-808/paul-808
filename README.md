@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paul-808
-- 👀 I’m interested in public-sector funding problems, education policy, goverment reform for better policy and data, and beer
-- 🌱 I’m currently learning django fullstack :D
-- 💞️ I’m looking to collaborate on a beer recipe portal
+- 👀 I’m interested in public-sector funding problems, goverment reform for better policy and data, and beer
+- 💞️ I’m looking to collaborate on training LLMs on a large dataset of homebrew beer recipes
+- 🐱‍💻 Im building an open source data collection tool for medium/large data reporting problems
 - 📫 Connect on insta @pljrvy
 
 <!---
